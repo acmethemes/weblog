@@ -1,0 +1,47 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_weblog">
+            <key name="weblog_theme_options">
+                <key name="weblog-feature-cat"/>
+                <key name="weblog-enable-feature"/>
+                <key name="weblog-header-logo"/>
+                <key name="weblog-header-id-display-opt"/>
+                <key name="weblog-show-date"/>
+                <key name="weblog-header-date-format"/>
+                <key name="weblog-facebook-url"/>
+                <key name="weblog-twitter-url"/>
+                <key name="weblog-youtube-url"/>
+                <key name="weblog-instagram-url"/>
+                <key name="weblog-enable-social"/>
+                <key name="weblog-header-show-search"/>
+                <key name="weblog-enable-sticky-menu"/>
+                <key name="weblog-enable-sticky-sidebar"/>
+                <key name="weblog-footer-copyright"/>
+                <key name="weblog-default-layout"/>
+                <key name="weblog-sidebar-layout"/>
+                <key name="weblog-front-page-sidebar-layout"/>
+                <key name="weblog-archive-sidebar-layout"/>
+                <key name="weblog-pagination-option"/>
+                <key name="weblog-blog-archive-layout"/>
+                <key name="weblog-blog-archive-more-text"/>
+                <key name="weblog-primary-color"/>
+                <key name="weblog-custom-css"/>
+                <key name="weblog-blog-archive-image-size"/>
+                <key name="weblog-show-related"/>
+                <key name="weblog-related-title"/>
+                <key name="weblog-related-post-display-from"/>
+                <key name="weblog-single-image-size"/>
+                <key name="weblog-search-placholder"/>
+                <key name="weblog-show-breadcrumb"/>
+                <key name="weblog-reset-options"/>
+                <key name="weblog-you-are-here-text"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+

@@ -1,0 +1,98 @@
+== Change log ==
+
+= 4.0.0 - Jun 26 2026 =
+* Updated: WordPress 7.0 compatibility
+* Updated: Requires PHP 7.4
+* Updated: Tested up to WordPress 7.0
+
+= 3.0.9 - Apr 20 2025 =
+* Added: Tested with the latest WordPress.
+* Added: Static caching mechanism for theme options to improve performance.
+* Fixed: Resolved issue with translation function preload
+* Fixed: License validation and demo import issues.
+
+= 3.0.8 - Jan 20 2025 =
+* Added: Enhanced support for the latest WordPress version.
+* Updated: Improved CSS compatibility.
+
+= 3.0.7 - June 05 2024 =
+* Updated: WordPress latest compatibility
+* Updated: CSS combatibility
+
+= 3.0.6 - July 31 2023 =
+* Added: Recommended Classic Widgets plugin
+* Updated: WordPress latest compatibility
+
+= 3.0.5 - Feb 05 2022 =
+* Updated: WordPress latest compatibility
+
+= 3.0.4 - July 28 2021 =
+* Added: WordPress 5.8 compatibility
+* Fixed: Block-based Widgets Editor
+
+ 3.0.3 - June 24 2021 =
+* Fixed   :  Notice on Editor Gutenberg Editor
+* Updated   :  RTL CSS
+
+= 3.0.2 - Jan 05 2021 =
+* Added   : Links within content must be underlined
+
+= 3.0.1 - Sept 10 2020 =
+* Added   : Keyboard navigation
+* Added   : style.css header
+* Removed   : Rest API demo data
+
+= 3.0.0 - Nov 14 2019 =
+* Added   : Advanced Demo Import
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Fixed   : Breadcrumbs error on google console, $item,$attributes,$meta updates inside function trail
+
+= 2.0.1 - Oct 02 2019=
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wpml-config.xml file
+* Fixed : Screen Reader Text
+
+= 2.0.0 - June 04 2019 =
+* Added : Both and Middle Column Sidebar layout
+* Added : RTL support
+* Added : Gutenberg Ready
+
+= 1.2.1 - Jan 09 2018 =
+* Added: Upgrade to Pro
+* Update : Breadcrumb and TGM-Plugin-Activation
+* Update : Admin script enqueue
+* Update : Font Awesome, theia-sticky-sidebar
+
+= 1.2.0 - July 05 2017 =
+* Added: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Added: Single Post Options
+* Added: Blog/Archive Image Size
+* Added: Single Image Size
+* Added: Read More Text on Blog/Archive Page
+* Added: Related Post form Category or Tag
+* Added: WooCommerce Support
+* Added: Acme Demo Setup
+* Added: Theme Info Page on Admin
+* Added: Date Options
+* Added: Sticky Menu
+* Add: Sticky Sidebar Options
+* Add: Page Builder Compatible
+* Fixed: Reset
+* Fixed: Excerpt hooks
+* Update: Breadcrumbs
+* Update: Customizer Experience
+
+= 1.0.1 =
+* Fix: Minor Bugs
+
+= 1.0.0 =
+* Fix: Minor Bugs
+
+= 0.0.9 =
+* Update: Extend theme options
+* Fix: CSS tweaks
+
+= 0.0.1 =
+* Submitted to WordPress.org

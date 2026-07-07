@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-07-03T11:53:56+00:00\n"
+"POT-Creation-Date: 2026-07-07T19:42:47+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: weblog\n"
@@ -803,12 +803,12 @@ msgstr ""
 msgid "Primary Menu"
 msgstr ""
 
-#: acmethemes/core.php:177
+#: acmethemes/core.php:189
 #: acmethemes/hooks/navigation.php:23
 msgid "Load More Posts"
 msgstr ""
 
-#: acmethemes/core.php:178
+#: acmethemes/core.php:190
 msgid "No More Posts"
 msgstr ""
 
@@ -1142,22 +1142,22 @@ msgstr ""
 msgid "Related Post Display From Options"
 msgstr ""
 
-#: acmethemes/functions.php:35
+#: acmethemes/functions.php:34
 #, php-format
 msgid "<cite class=\"fn\">%s</cite>"
 msgstr ""
 
-#: acmethemes/functions.php:38
+#: acmethemes/functions.php:37
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
 #. translators: 1: date, 2: time
-#: acmethemes/functions.php:46
+#: acmethemes/functions.php:45
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: acmethemes/functions.php:48
+#: acmethemes/functions.php:47
 msgid "(Edit)"
 msgstr ""
 
@@ -1182,8 +1182,7 @@ msgid "Add Comment"
 msgstr ""
 
 #: acmethemes/hooks/comment-forms.php:23
-#, php-format
-msgid "%s Leave a Comment"
+msgid "Leave a Comment"
 msgstr ""
 
 #: acmethemes/hooks/footer.php:84

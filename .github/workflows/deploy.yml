@@ -149,3 +149,5 @@ jobs:
               --username "$SVN_USERNAME" --password "$SVN_PASSWORD"
             echo "✓ Deployed $THEME_SLUG v$VERSION"
           fi
+
+# trigger workflow registration
